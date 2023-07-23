@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#navbar{
+    background-color:rgb(201, 201, 201);
+    height: 43px;
+   
+}
+a{
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+.text-center{
+    background-color: #f6f7f7;
+    text-align: center;
+    
+
+}
+#navbar a img {
+    width: 42px; /* Set your desired width for the logo */
+    border: 2px solid black;
+    border-radius:50px;
+}
